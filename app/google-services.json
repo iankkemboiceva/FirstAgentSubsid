@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "830779889600",
+    "firebase_url": "https://fbn-subsidiary.firebaseio.com",
+    "project_id": "fbn-subsidiary",
+    "storage_bucket": "fbn-subsidiary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830779889600:android:777f47bf786f1985",
+        "android_client_info": {
+          "package_name": "firstmob.firstbank.com.subsidiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830779889600-7ft8qp6gv0dfl29gbkitv78vjqt3qh9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtG4rZpz25QOpDygCL7FS7HyufcJVk9TI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
